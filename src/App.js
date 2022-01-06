@@ -31,7 +31,7 @@ function App() {
                         <span> <i className="fa fa-star"></i> </span>
                         <span> <i className="fa fa-star"></i> </span>
                         <span> <i className="fa fa-star"></i> </span>
-                        <span> <i className="fa fa-star-o"></i> </span>
+                        <span> <i className="fa fa-star"></i> </span>
                     </div>
                     <div className="price">
                         €{product.price}
